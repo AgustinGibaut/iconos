@@ -14,6 +14,12 @@ AQUI TE MUESTRO EL CODIGO HTML QUE EH UTILIZADO PARA CREAR DICHA ANIMACION
 ### HTML
 
 ```html
+<head>
+    <!-- vinculamos font aweomes para darle uso a los iconos y poder hacer el resto -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
+ <!-- se comienx¿za con la estructura una vez vinculado font awesome y css -->
    <div class="menu">
         <div class="menu-item">
             <i class="fas fa-home"></i>
